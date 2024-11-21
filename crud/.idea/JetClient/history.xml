@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="History">
+    <option name="requestHistoryStates">
+      <list>
+        <requestHistoryState>
+          <option name="dateTime" value="1732162978242" />
+          <option name="id" value="43115e07-421f-4f8f-a2f5-bb30c3b196af" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;titulo&quot;: &quot;Teste&quot;,&#10;  &quot;autor&quot;: &quot;Iago&quot;,&#10;  &quot;ano&quot;: 2015,&#10;  &quot;genero&quot;: &quot;Terror&quot;,&#10;  &quot;id&quot;: 1&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="c6725f02-03ea-4d76-9162-0e2eb90af561" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/livros" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Thu, 21 Nov 2024 04:22:57 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="43115e07-421f-4f8f-a2f5-bb30c3b196af" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="15" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732162994937" />
+          <option name="id" value="e3f8fcb0-a582-4252-beed-fe718f6fd89c" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;titulo&quot;: &quot;Teste&quot;,&#10;  &quot;autor&quot;: &quot;Iago&quot;,&#10;  &quot;ano&quot;: 2015,&#10;  &quot;genero&quot;: &quot;Terror&quot;,&#10;  &quot;id&quot;: 1&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="c6725f02-03ea-4d76-9162-0e2eb90af561" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/livros/" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Thu, 21 Nov 2024 04:23:13 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e3f8fcb0-a582-4252-beed-fe718f6fd89c" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732163021623" />
+          <option name="id" value="1199e3f6-6374-4c07-8067-b82cdfc28822" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;titulo&quot;: &quot;Teste&quot;,&#10;  &quot;autor&quot;: &quot;Iago&quot;,&#10;  &quot;ano&quot;: 2015,&#10;  &quot;genero&quot;: &quot;Terror&quot;,&#10;  &quot;id&quot;: 1&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="c6725f02-03ea-4d76-9162-0e2eb90af561" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/livros" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Thu, 21 Nov 2024 04:23:41 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1199e3f6-6374-4c07-8067-b82cdfc28822" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732163050765" />
+          <option name="id" value="db6d6310-205f-44c7-9a95-5925e58f2f09" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;titulo&quot;: &quot;Teste&quot;,&#10;  &quot;autor&quot;: &quot;Iago&quot;,&#10;  &quot;ano&quot;: 2015,&#10;  &quot;genero&quot;: &quot;Terror&quot;,&#10;  &quot;id&quot;: 1&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="c6725f02-03ea-4d76-9162-0e2eb90af561" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/livros" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Thu, 21 Nov 2024 04:24:10 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="db6d6310-205f-44c7-9a95-5925e58f2f09" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732163052855" />
+          <option name="id" value="ea0f0e65-cc13-41c3-8fc9-e5688314fa11" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;titulo&quot;: &quot;Teste&quot;,&#10;  &quot;autor&quot;: &quot;Iago&quot;,&#10;  &quot;ano&quot;: 2015,&#10;  &quot;genero&quot;: &quot;Terror&quot;,&#10;  &quot;id&quot;: 1&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="c6725f02-03ea-4d76-9162-0e2eb90af561" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/livros" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Thu, 21 Nov 2024 04:24:12 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ea0f0e65-cc13-41c3-8fc9-e5688314fa11" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732163076400" />
+          <option name="id" value="1bc93167-0b4e-4c5c-a020-0dd8514dedbe" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;titulo&quot;: &quot;Teste&quot;,&#10;  &quot;autor&quot;: &quot;Iago&quot;,&#10;  &quot;ano&quot;: 2015,&#10;  &quot;genero&quot;: &quot;Terror&quot;,&#10;  &quot;id&quot;: 1&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="c6725f02-03ea-4d76-9162-0e2eb90af561" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/livros" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Thu, 21 Nov 2024 04:24:35 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1bc93167-0b4e-4c5c-a020-0dd8514dedbe" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732163077528" />
+          <option name="id" value="2d579a59-f13a-42bc-a3d6-2768147760d4" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;titulo&quot;: &quot;Teste&quot;,&#10;  &quot;autor&quot;: &quot;Iago&quot;,&#10;  &quot;ano&quot;: 2015,&#10;  &quot;genero&quot;: &quot;Terror&quot;,&#10;  &quot;id&quot;: 1&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="c6725f02-03ea-4d76-9162-0e2eb90af561" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/livros" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Thu, 21 Nov 2024 04:24:36 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2d579a59-f13a-42bc-a3d6-2768147760d4" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732163126833" />
+          <option name="id" value="63d60a43-cc93-4ef5-a01a-6ec6763042fe" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;titulo&quot;: &quot;Teste&quot;,&#10;  &quot;autor&quot;: &quot;Iago&quot;,&#10;  &quot;ano&quot;: 2015,&#10;  &quot;genero&quot;: &quot;Terror&quot;,&#10;  &quot;id&quot;: 1&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="c6725f02-03ea-4d76-9162-0e2eb90af561" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/livros" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Thu, 21 Nov 2024 04:25:26 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="63d60a43-cc93-4ef5-a01a-6ec6763042fe" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732163131094" />
+          <option name="id" value="601b890e-b7b8-43bc-9fe8-abae7173756f" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;titulo&quot;: &quot;Teste&quot;,&#10;  &quot;autor&quot;: &quot;Iago&quot;,&#10;  &quot;ano&quot;: 2015,&#10;  &quot;genero&quot;: &quot;Terror&quot;,&#10;  &quot;id&quot;: 1&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="c6725f02-03ea-4d76-9162-0e2eb90af561" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/livros" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="SW50ZXJuYWwgU2VydmVyIEVycm9y" />
+              <option name="bodyString" value="Internal Server Error" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Thu, 21 Nov 2024 04:25:30 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="server" />
+                    <option name="value" value="uvicorn" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="21" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="601b890e-b7b8-43bc-9fe8-abae7173756f" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Internal Server Error" />
+              <option name="size" value="21" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+      </list>
+    </option>
+  </component>
+</project>

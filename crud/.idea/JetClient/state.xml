@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;titulo&quot;: &quot;Teste&quot;,&#10;  &quot;autor&quot;: &quot;Iago&quot;,&#10;  &quot;ano&quot;: 2015,&#10;  &quot;genero&quot;: &quot;Terror&quot;,&#10;  &quot;id&quot;: 1&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="c6725f02-03ea-4d76-9162-0e2eb90af561" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/livros" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="5ed1b8ce-6471-4447-86c5-2fcb52273dd7" />
+    <option name="version" value="4" />
+  </component>
+</project>
